@@ -1,4 +1,7 @@
 # genmymodel
+Andres Camilo Lozano Palacios
+20201099038
+
 Ejercicio Voley
 
 Explicación del caso
