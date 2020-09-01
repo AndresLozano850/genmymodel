@@ -2,18 +2,18 @@
 -- Uncomment me if you want :)
 -- CREATE DATABASE Volley;
 
-CREATE TABLE empleado
-(
-    nombre_club String NOT NULL,
-    identificacion Integer NOT NULL,
-    cargo String NOT NULL
-);
-
 CREATE TABLE club_tenis
 (
     nombre_club String NOT NULL,
     telefono String NOT NULL,
     tarifa_anual Integer NOT NULL
+);
+
+CREATE TABLE empleado
+(
+    nom_club String NOT NULL,
+    identificacion Integer NOT NULL,
+    cargo String NOT NULL
 );
 
 CREATE TABLE miembro_club
